@@ -1,0 +1,5 @@
+✔ GitHub repo  
+✔ Streamlit live link  
+✔ Architecture diagram  
+✔ Demo video  
+✔ Form submitted  
